@@ -11,7 +11,7 @@
 
 Technologies that I used to develop this mobile client
 
-- [NestHS](https://reactnative.dev/)
+- [NestjS](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/) 
 - [Mongoose](https://www.mongodb.com/)
 - [Axios](https://github.com/axios/axios) 
